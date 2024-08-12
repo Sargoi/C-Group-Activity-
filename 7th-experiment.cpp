@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <string>
 
+
 struct Book {
     int book_id;
     std::string author_name;
