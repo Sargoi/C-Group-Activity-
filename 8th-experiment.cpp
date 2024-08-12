@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <numeric>
 
+
 template <typename T>
 class Vector {
 private:
