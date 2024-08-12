@@ -1,0 +1,146 @@
+---
+
+## **Group Activity Overview**
+
+We are assigned to complete experiments 5 to 10 from our syllabus by the 13th of August. As today is the 8th, we have five days to collaborate, share knowledge, and ensure every group member understands the solutions.
+
+### Group Members:
+
+| Name | Registration Number | GitHub Username |
+| --- | --- | --- |
+| Amit | 23BCE10692 | Sargoi |
+| Mayank | 23BCY10106 | mayank2OP |
+| Aastha | 23BCE10398 | Aastha219 |
+| Vinit | 23BCE11275 | VinitRaj31 |
+| Pankaj Dixit | 23BCE10995 | Pankajdixit11 |
+
+### Tasks:
+
+- [ ]  **Collaboration**: Work together to solve experiments 5 to 10.
+- [ ]  **Knowledge Sharing**: Make sure every group member understands the solutions.
+- [ ]  **Group Meetings**: Conduct meetings to discuss progress and divide tasks.
+- [ ]  **Meeting Notes**: Prepare notes for each meeting.
+
+### Measures Followed:
+
+| Task | Measure |
+| --- | --- |
+| Collaboration | We used GitHub for collaboration. |
+| Knowledge Sharing | Conducted Google Meet sessions and documented everything. |
+| Group Meetings | Held meetings on weekends and a day before class. |
+| Meeting Notes | Utilized http://read.ai/ for meeting notes and used http://merlin.ai/ to convert Hindi notes to English. |
+
+# To-Do List
+
+---
+
+[Tasks](https://www.notion.so/Tasks-4429d981c5874ce285bb6059536e3d22?pvs=21)
+
+### Meeting Notes
+
+**Meeting Date:** 8th August 5:00 PM
+
+**Attendees:** Amit, Mayank, Aastha, Vinit, Pankaj Dixit
+
+**Agenda:**
+
+- [x]  Introduce all group members.
+- [x]  Sign up for GitHub if still not have one.
+- [x]  Set up a GitHub repository.
+- [ ]  Add all group members to the repository.
+
+**Discussion Points:**
+
+- **Introductions:** Each group member shared their background and role.
+- **Repository Setup:** Created a GitHub repository for collaboration.
+- **Member Addition:** Added all group members to the GitHub repository.
+- Discussion about next meetings we are going to held
+
+**Decisions Made:**
+
+- Use GitHub for code sharing and collaboration.
+- We will join everyone in the repository in next meeting on weekends.
+- Discussion about mom and individual tasks.
+
+**Next Meeting:** 10th August, 10 PM
+
+**Action Items:**
+
+- [ ]  Amit to share the initial code for Experiment 5 by tomorrow.
+- [ ]  Aastha to document their findings for Experiment 6 and share them during the next meeting.
+- [ ]  Mayank to draft and share the solution for Experiment 7.
+- [ ]  Pankaj to prepare the solution for Experiment 8.
+- [ ]  Vinit to find the solution for Experiment 9 and show it in the next meeting.
+
+**Discussion Tasks:**
+
+- Discuss the challenges faced by each member in their assigned experiments.
+- Share resources and references that could help in solving the experiments.
+- Plan for code reviews and feedback sessions.
+
+**Discussion Made:**
+
+- Identified common issues faced in Experiments 5 to 7.
+- Decided to use online resources like Stack Overflow and C++ documentation for additional help.
+- Agreed to conduct peer code reviews to ensure code quality and understanding.
+
+# Meeting 3
+
+**Meeting Date:** 12th August
+
+**Attendees:** Amit, Mayank, Aastha, Vinit, Pankaj Dixit
+
+**Agenda:**
+
+- [x]  Discuss how to push in GitHub
+- [x]  Amit pushes all files to GitHub in one go
+- [x]  Each member to add their code to the GitHub repository
+- [x]  Add all 4 problems to the GitHub repo
+- [x]  Learn how the entire code works for each of the 4 experiments
+
+**Discussion Points:**
+
+- **GitHub Pushing:** Discussed the process of pushing code to GitHub.
+- **File Upload:** Amit uploaded all files to the GitHub repository in one go.
+- **Code Addition:** Each member added their code to the repository individually.
+- **Problem Integration:** Integrated all 4 problems into the GitHub repository.
+- **Code Understanding:** Learned how the entire code works for each of the 4 experiments.
+
+**Decisions Made:**
+
+- Amit will handle initial file uploads.
+- Each member is responsible for adding their code to the repository.
+- Regularly review the integrated code to ensure everyone understands the solutions.
+
+# Meeting notes by read.ai
+
+10th of august 
+
+In this meeting, Aastha Patel, Amit, and Mayank Rawat were discussing GitHub, focusing on its editing features and functionalities. Additionally, they talked about sending invitations and potential enhancements to their workflow. Aastha and Mayank also discussed sales and project collaborations, specifically mentioning their work with a GitHub repository and the importance of maintaining clean and efficient code.
+
+A dispute arose between Amit and Aastha regarding the code and the repository. Aastha argued that large codebases often result in small outputs, while Amit attempted to explain that sometimes extensive code is necessary for complex functionalities. Mayank also participated in this debate, providing his insights into the matter.
+
+Overall, the meeting covered various aspects of their project, including technical discussions about GitHub and broader topics such as sales and project management.
+
+13th of august 
+
+Amit is guiding everyone on how to push their code to the repository on GitHub effectively. He mentions that he consistently sees a green tick next to his commits because he regularly adds new changes to the repository. He suggests that if others are not seeing their commits, they should double-check their setup and make sure they're properly pushing their code.
+
+Amit explains that to ensure the code is visible and properly integrated into the repository, they need to focus on a few steps:
+
+1. **Repository Setup:** Make sure the repository is correctly set up, and the code is added to the right location.
+2. **Commit and Push:** After making changes, commit those changes by adding a commit message, preferably with your name, and then push the code to the repository.
+3. **Verification:** After pushing, check to see if the green tick appears next to your commit, indicating that the code has been successfully integrated.
+
+If the code still isn’t showing up or reflecting changes, Amit offers to share his screen to demonstrate the process step-by-step. Additionally, he mentions another method where he could push everyone's code into a shared folder on GitHub. This way, everyone can access and integrate the code. He advises copying the code from the shared folder, pasting it into the appropriate location in their own repositories, and then pushing it again.
+
+Also highlights that after following these steps, the code should be visible to the entire group, and each member will see the green tick indicating successful integration.
+
+Amit:
+"I want my name to show up. Look, my name should appear. If it doesn’t, just redo it, alright? What happens is, when you make a change and I make another with the name 'Amit,' it shows my name. For example, let's leave this as it is in Experiment 9. Just go ahead and make any small change, like adding a space or pressing Enter, and then commit the changes. Ensure your name is there."
+
+Aastha Patel:
+"Amit, since you created it, keep it as it is. Just remove your name from the code and let Pankaj add his. How can I remove it? Pankaj can add his name there. Also, Amit, you keep your name in the experiments. Seventh for Mayank, eighth for Vinit."
+
+Amit:
+"No, no, when you go to the profile, it should show the repositories. If not, it's alright. If necessary, I'll add the maximum file, that's it. Just make sure to check what code is inside and whether it is correct. If asked in class, we'll handle it then. Alright, let's proceed, everyone."
